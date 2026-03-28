@@ -1,0 +1,20 @@
+
+**/__pycache__/
+**/*.py[cod]
+**.sqlite3
+*.pytest_cache/
+*.venv/
+fast_api_git/ .mypy_cache
+
+.vscode
+.idea
+*.swp
+
+**/docker-compose.override.yml
+**/Dockerfile*
+
+.DS_Store
+
+**/ .github/workflows/.cache
+
+*.log
